@@ -1,0 +1,6 @@
+
+This is my Java read test
+java chap12
+This is my Java read test
+This is my Java read test
+Java write test
